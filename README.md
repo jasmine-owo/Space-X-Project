@@ -9,6 +9,6 @@ We would like to investigate how to perform a successful first stage landing by 
 
 ## 🔭 Outline
 1. Provide graphs to show the relationship between different elements of the rocket and its success rate
-2. Find out which varibles affect the success rate of Falcon 9 rocket
+2. Find out which variables affect the success rate of Falcon 9 rocket
 3. Apply algorithm to predict the successful rate of the future first stage of landing
 
